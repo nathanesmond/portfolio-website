@@ -15,6 +15,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Nathanael Esmond Hartono | Informatics Graduate & Software Engineer",
   description: "Portfolio of Nathanael Esmond Hartono, Informatics Graduate from Universitas Atma Jaya Yogyakarta. Projects, Experience, and Certifications.",
+  icons: {
+    icon: "/iconnew.jpeg",
+    shortcut: "/iconnew.jpeg",
+    apple: "/iconnew.jpeg",
+  },
 };
 
 export default function RootLayout({
